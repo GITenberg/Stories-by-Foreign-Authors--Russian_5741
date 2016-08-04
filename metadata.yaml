@@ -1,0 +1,64 @@
+_repo: Stories-by-Foreign-Authors--Russian_5741
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolay Vasilyevich
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+  - agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Poushkin, Alexander
+    - Пушкин, Александр Сергеевич
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://www.museum.ru/Pushkin/
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+  - agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Tourgueneff, Ivan
+    - Turgénieff, Iván
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+  - agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: Mumu / Turgenev -- The Shot / Pushkin -- St. John's Eve / Gogol --
+  An old Acquaintance / Tolstoy
+title: 'Stories by Foreign Authors: Russian'
+url: http://www.gutenberg.org/ebooks/5741
