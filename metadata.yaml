@@ -1,5 +1,5 @@
 _repo: Stories-by-Foreign-Authors--Russian_5741
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Gogol, Nikolai Vasilevich
@@ -44,7 +44,12 @@ contributor:
     gutenberg_agent_id: '136'
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5741#Stories-by-Foreign-Authors--Russian
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
